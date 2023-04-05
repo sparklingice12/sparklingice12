@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparklingice12" alt="sparklingice12" /></a> </p>
 
-- 🔭 I’m currently working at **Wela School Systems**
-
 - 🌱 I’m currently learning **Flutter GetX, Flutter Clean Architecture**
 
 - 💬 Ask me about **Flutter**
