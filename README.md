@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Flutter GetX, Flutter Clean Architecture**
 
-- 👨‍💻 All of my projects are available at [[ currently ongoing ]]([ currently ongoing ])
-
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **sparklingice099@gmail.com**
