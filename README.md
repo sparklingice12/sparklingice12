@@ -1,7 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/sparklingice12)
-<h1 align="center">Hi 👋, I'm Gary Brendez</h1>
+<h1 align="center">Hello, I'm Gary 👋</h1>
 <h3 align="center">Self-driven, quick starter, passionate programmer with a curious mind who enjoys solving a complex and challenging real-world problems.</h3>
-<img align="center" alt="Coding" width="600" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparklingice12&label=Profile%20views&color=0e75b6&style=flat" alt="sparklingice12" /> </p>
 
