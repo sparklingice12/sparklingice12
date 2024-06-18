@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparklingice12" alt="sparklingice12" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter GetX, Flutter Clean Architecture**
+- 💬 My portfolio **https://sparklingice12.github.io/#/**
 
 - 💬 Ask me about **Flutter**
 
