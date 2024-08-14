@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/sparklingice12)
 <h1 align="center">Hello, I'm Gary 👋</h1>
-<h3 align="center">Self-driven, quick starter, passionate programmer with a curious mind who enjoys solving a complex and challenging real-world problems.</h3>
+<h3 align="center"> Always striving to grow 1% every day and constantly seeking new knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparklingice12&label=Profile%20views&color=0e75b6&style=flat" alt="sparklingice12" /> </p>
 
